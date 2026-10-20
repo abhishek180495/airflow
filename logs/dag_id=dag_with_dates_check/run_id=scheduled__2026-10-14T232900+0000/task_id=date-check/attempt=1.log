@@ -1,0 +1,11 @@
+{"timestamp":"2026-10-18T18:41:56.801588Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-10-18T18:41:56.803240Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/dag_check_dates.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-18T18:41:56.826632Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/dag_check_dates.py","lineno":4,"logger":"py.warnings"}
+{"timestamp":"2026-10-18T18:41:56.867719Z","level":"info","event":"Run ID: scheduled__2026-10-14T23:29:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":20}
+{"timestamp":"2026-10-18T18:41:56.868869Z","level":"info","event":"Data interval start: 2026-10-14 23:29:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":22}
+{"timestamp":"2026-10-18T18:41:56.869866Z","level":"info","event":"Data interval end: 2026-10-14 23:29:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":25}
+{"timestamp":"2026-10-18T18:41:56.870018Z","level":"info","event":"Logical date: 2026-10-14 23:29:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":28}
+{"timestamp":"2026-10-18T18:41:56.870209Z","level":"info","event":"Start date formatted: 20261014","logger":"root","filename":"dag_check_dates.py","lineno":34}
+{"timestamp":"2026-10-18T18:41:56.870381Z","level":"info","event":"End date formatted: 20261014","logger":"root","filename":"dag_check_dates.py","lineno":35}
+{"timestamp":"2026-10-18T18:41:56.870510Z","level":"info","event":"Logical date formatted: 20261014","logger":"root","filename":"dag_check_dates.py","lineno":36}
+{"timestamp":"2026-10-18T18:41:56.870776Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":215}
