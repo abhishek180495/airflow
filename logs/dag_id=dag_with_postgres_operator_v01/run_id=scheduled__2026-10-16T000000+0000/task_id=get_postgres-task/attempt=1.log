@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-16T02:55:51.296298Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-10-16T02:55:51.302787Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-16T02:55:51.391985Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/dag_with_postgres_operator.py","lineno":5,"logger":"py.warnings"}
+{"timestamp":"2026-10-16T02:55:51.517446Z","level":"info","event":"Postgres operator version 6.4.0","logger":"task.stdout"}
+{"timestamp":"2026-10-16T02:55:51.518593Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":215}

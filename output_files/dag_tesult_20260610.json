@@ -1,0 +1,1071 @@
+{
+    "login_users": [
+        {
+            "user_id": "user_54248",
+            "login_time": "2026-06-10T23:41:58",
+            "device": "desktop",
+            "browser": "Edge",
+            "referrer": "social",
+            "session_duration": 311,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_87653",
+            "login_time": "2026-06-10T17:08:08",
+            "device": "mobile",
+            "browser": "Safari",
+            "referrer": "direct",
+            "session_duration": 553,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_93723",
+            "login_time": "2026-06-10T12:30:47",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "ad",
+            "session_duration": 304,
+            "geo_location": "IN",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_43013",
+            "login_time": "2026-06-10T18:54:13",
+            "device": "mobile",
+            "browser": "Chrome",
+            "referrer": "google",
+            "session_duration": 92,
+            "geo_location": "US",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_96637",
+            "login_time": "2026-06-10T08:02:52",
+            "device": "mobile",
+            "browser": "Chrome",
+            "referrer": "social",
+            "session_duration": 558,
+            "geo_location": "US",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_46607",
+            "login_time": "2026-06-10T23:06:37",
+            "device": "desktop",
+            "browser": "Chrome",
+            "referrer": "social",
+            "session_duration": 559,
+            "geo_location": "IN",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_78358",
+            "login_time": "2026-06-10T18:25:17",
+            "device": "desktop",
+            "browser": "Edge",
+            "referrer": "email_campaign",
+            "session_duration": 562,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_16903",
+            "login_time": "2026-06-10T21:57:19",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "google",
+            "session_duration": 436,
+            "geo_location": "UK",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_69336",
+            "login_time": "2026-06-10T07:00:31",
+            "device": "tablet",
+            "browser": "Edge",
+            "referrer": "direct",
+            "session_duration": 68,
+            "geo_location": "IN",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_28624",
+            "login_time": "2026-06-10T00:20:58",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "direct",
+            "session_duration": 566,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_14304",
+            "login_time": "2026-06-10T09:54:52",
+            "device": "tablet",
+            "browser": "Chrome",
+            "referrer": "direct",
+            "session_duration": 232,
+            "geo_location": "UK",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_68735",
+            "login_time": "2026-06-10T06:37:23",
+            "device": "desktop",
+            "browser": "Firefox",
+            "referrer": "ad",
+            "session_duration": 163,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_14933",
+            "login_time": "2026-06-10T13:28:43",
+            "device": "tablet",
+            "browser": "Firefox",
+            "referrer": "google",
+            "session_duration": 391,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_94166",
+            "login_time": "2026-06-10T17:30:21",
+            "device": "tablet",
+            "browser": "Firefox",
+            "referrer": "social",
+            "session_duration": 560,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_36812",
+            "login_time": "2026-06-10T12:57:31",
+            "device": "desktop",
+            "browser": "Firefox",
+            "referrer": "direct",
+            "session_duration": 333,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_86273",
+            "login_time": "2026-06-10T17:30:19",
+            "device": "tablet",
+            "browser": "Edge",
+            "referrer": "ad",
+            "session_duration": 454,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_75191",
+            "login_time": "2026-06-10T04:19:33",
+            "device": "mobile",
+            "browser": "Safari",
+            "referrer": "social",
+            "session_duration": 388,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_93140",
+            "login_time": "2026-06-10T00:19:02",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "ad",
+            "session_duration": 278,
+            "geo_location": "DE",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_34362",
+            "login_time": "2026-06-10T04:29:24",
+            "device": "desktop",
+            "browser": "Edge",
+            "referrer": "email_campaign",
+            "session_duration": 443,
+            "geo_location": "DE",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_44216",
+            "login_time": "2026-06-10T14:13:16",
+            "device": "desktop",
+            "browser": "Safari",
+            "referrer": "direct",
+            "session_duration": 506,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_19821",
+            "login_time": "2026-06-10T10:49:51",
+            "device": "desktop",
+            "browser": "Firefox",
+            "referrer": "direct",
+            "session_duration": 589,
+            "geo_location": "CA",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_16682",
+            "login_time": "2026-06-10T05:23:31",
+            "device": "mobile",
+            "browser": "Safari",
+            "referrer": "google",
+            "session_duration": 200,
+            "geo_location": "CA",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_94188",
+            "login_time": "2026-06-10T17:23:14",
+            "device": "mobile",
+            "browser": "Chrome",
+            "referrer": "email_campaign",
+            "session_duration": 164,
+            "geo_location": "UK",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_40079",
+            "login_time": "2026-06-10T11:31:51",
+            "device": "mobile",
+            "browser": "Safari",
+            "referrer": "google",
+            "session_duration": 376,
+            "geo_location": "IN",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_37158",
+            "login_time": "2026-06-10T16:07:31",
+            "device": "mobile",
+            "browser": "Firefox",
+            "referrer": "email_campaign",
+            "session_duration": 384,
+            "geo_location": "IN",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_19673",
+            "login_time": "2026-06-10T14:03:51",
+            "device": "desktop",
+            "browser": "Edge",
+            "referrer": "social",
+            "session_duration": 415,
+            "geo_location": "CA",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_54187",
+            "login_time": "2026-06-10T19:15:30",
+            "device": "desktop",
+            "browser": "Edge",
+            "referrer": "social",
+            "session_duration": 256,
+            "geo_location": "UK",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_20105",
+            "login_time": "2026-06-10T20:18:15",
+            "device": "tablet",
+            "browser": "Chrome",
+            "referrer": "direct",
+            "session_duration": 332,
+            "geo_location": "CA",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_36868",
+            "login_time": "2026-06-10T06:27:18",
+            "device": "desktop",
+            "browser": "Firefox",
+            "referrer": "google",
+            "session_duration": 217,
+            "geo_location": "US",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_70804",
+            "login_time": "2026-06-10T13:59:18",
+            "device": "desktop",
+            "browser": "Chrome",
+            "referrer": "google",
+            "session_duration": 351,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_38063",
+            "login_time": "2026-06-10T16:04:32",
+            "device": "desktop",
+            "browser": "Safari",
+            "referrer": "google",
+            "session_duration": 599,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_15167",
+            "login_time": "2026-06-10T19:16:19",
+            "device": "tablet",
+            "browser": "Firefox",
+            "referrer": "google",
+            "session_duration": 567,
+            "geo_location": "CA",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_19651",
+            "login_time": "2026-06-10T16:09:45",
+            "device": "desktop",
+            "browser": "Firefox",
+            "referrer": "direct",
+            "session_duration": 163,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_84158",
+            "login_time": "2026-06-10T02:29:27",
+            "device": "mobile",
+            "browser": "Edge",
+            "referrer": "direct",
+            "session_duration": 131,
+            "geo_location": "DE",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_11958",
+            "login_time": "2026-06-10T22:02:00",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "ad",
+            "session_duration": 358,
+            "geo_location": "UK",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_18325",
+            "login_time": "2026-06-10T10:09:24",
+            "device": "tablet",
+            "browser": "Chrome",
+            "referrer": "social",
+            "session_duration": 431,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_67184",
+            "login_time": "2026-06-10T07:11:01",
+            "device": "desktop",
+            "browser": "Chrome",
+            "referrer": "email_campaign",
+            "session_duration": 221,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_40440",
+            "login_time": "2026-06-10T05:50:04",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "ad",
+            "session_duration": 419,
+            "geo_location": "DE",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_62417",
+            "login_time": "2026-06-10T01:11:09",
+            "device": "desktop",
+            "browser": "Firefox",
+            "referrer": "ad",
+            "session_duration": 139,
+            "geo_location": "CA",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_94069",
+            "login_time": "2026-06-10T02:30:07",
+            "device": "tablet",
+            "browser": "Edge",
+            "referrer": "google",
+            "session_duration": 256,
+            "geo_location": "CA",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_75368",
+            "login_time": "2026-06-10T10:51:54",
+            "device": "mobile",
+            "browser": "Safari",
+            "referrer": "direct",
+            "session_duration": 523,
+            "geo_location": "CA",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_70750",
+            "login_time": "2026-06-10T18:20:52",
+            "device": "desktop",
+            "browser": "Chrome",
+            "referrer": "ad",
+            "session_duration": 66,
+            "geo_location": "CA",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_69464",
+            "login_time": "2026-06-10T01:18:42",
+            "device": "tablet",
+            "browser": "Firefox",
+            "referrer": "google",
+            "session_duration": 116,
+            "geo_location": "UK",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_55349",
+            "login_time": "2026-06-10T00:54:08",
+            "device": "mobile",
+            "browser": "Edge",
+            "referrer": "google",
+            "session_duration": 241,
+            "geo_location": "IN",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_91103",
+            "login_time": "2026-06-10T22:52:24",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "google",
+            "session_duration": 460,
+            "geo_location": "DE",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_20059",
+            "login_time": "2026-06-10T08:14:32",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "google",
+            "session_duration": 124,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_77906",
+            "login_time": "2026-06-10T15:01:44",
+            "device": "mobile",
+            "browser": "Firefox",
+            "referrer": "social",
+            "session_duration": 65,
+            "geo_location": "US",
+            "is_new_user": true
+        },
+        {
+            "user_id": "user_87559",
+            "login_time": "2026-06-10T18:44:57",
+            "device": "tablet",
+            "browser": "Safari",
+            "referrer": "social",
+            "session_duration": 507,
+            "geo_location": "US",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_12973",
+            "login_time": "2026-06-10T07:26:24",
+            "device": "desktop",
+            "browser": "Edge",
+            "referrer": "social",
+            "session_duration": 539,
+            "geo_location": "DE",
+            "is_new_user": false
+        },
+        {
+            "user_id": "user_60148",
+            "login_time": "2026-06-10T02:47:18",
+            "device": "tablet",
+            "browser": "Chrome",
+            "referrer": "ad",
+            "session_duration": 137,
+            "geo_location": "IN",
+            "is_new_user": true
+        }
+    ],
+    "product_page_users": [
+        {
+            "user_id": "user_93723",
+            "view_time": "2026-06-10T12:36:47",
+            "product_id": 8826,
+            "time_on_page": 76,
+            "scroll_depth_percent": 57,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_43013",
+            "view_time": "2026-06-10T19:01:13",
+            "product_id": 8237,
+            "time_on_page": 130,
+            "scroll_depth_percent": 65,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_96637",
+            "view_time": "2026-06-10T08:04:52",
+            "product_id": 5452,
+            "time_on_page": 40,
+            "scroll_depth_percent": 77,
+            "clicked_recommendations": 1,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_46607",
+            "view_time": "2026-06-10T23:07:37",
+            "product_id": 1805,
+            "time_on_page": 163,
+            "scroll_depth_percent": 47,
+            "clicked_recommendations": 2,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_78358",
+            "view_time": "2026-06-10T18:34:17",
+            "product_id": 2829,
+            "time_on_page": 6,
+            "scroll_depth_percent": 55,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_16903",
+            "view_time": "2026-06-10T22:04:19",
+            "product_id": 9919,
+            "time_on_page": 139,
+            "scroll_depth_percent": 33,
+            "clicked_recommendations": 1,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_69336",
+            "view_time": "2026-06-10T07:03:31",
+            "product_id": 8319,
+            "time_on_page": 124,
+            "scroll_depth_percent": 34,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_28624",
+            "view_time": "2026-06-10T00:26:58",
+            "product_id": 3310,
+            "time_on_page": 41,
+            "scroll_depth_percent": 65,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_14304",
+            "view_time": "2026-06-10T10:03:52",
+            "product_id": 5808,
+            "time_on_page": 133,
+            "scroll_depth_percent": 17,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_68735",
+            "view_time": "2026-06-10T06:42:23",
+            "product_id": 4862,
+            "time_on_page": 131,
+            "scroll_depth_percent": 97,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_94166",
+            "view_time": "2026-06-10T17:38:21",
+            "product_id": 1834,
+            "time_on_page": 131,
+            "scroll_depth_percent": 75,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_36812",
+            "view_time": "2026-06-10T13:07:31",
+            "product_id": 5275,
+            "time_on_page": 140,
+            "scroll_depth_percent": 25,
+            "clicked_recommendations": 2,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_86273",
+            "view_time": "2026-06-10T17:33:19",
+            "product_id": 5822,
+            "time_on_page": 35,
+            "scroll_depth_percent": 87,
+            "clicked_recommendations": 2,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_75191",
+            "view_time": "2026-06-10T04:26:33",
+            "product_id": 9191,
+            "time_on_page": 176,
+            "scroll_depth_percent": 28,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_93140",
+            "view_time": "2026-06-10T00:23:02",
+            "product_id": 7430,
+            "time_on_page": 18,
+            "scroll_depth_percent": 72,
+            "clicked_recommendations": 1,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_34362",
+            "view_time": "2026-06-10T04:38:24",
+            "product_id": 4533,
+            "time_on_page": 53,
+            "scroll_depth_percent": 48,
+            "clicked_recommendations": 0,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_44216",
+            "view_time": "2026-06-10T14:18:16",
+            "product_id": 6593,
+            "time_on_page": 129,
+            "scroll_depth_percent": 34,
+            "clicked_recommendations": 2,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_19821",
+            "view_time": "2026-06-10T10:57:51",
+            "product_id": 1603,
+            "time_on_page": 8,
+            "scroll_depth_percent": 19,
+            "clicked_recommendations": 0,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_16682",
+            "view_time": "2026-06-10T05:26:31",
+            "product_id": 4931,
+            "time_on_page": 99,
+            "scroll_depth_percent": 34,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_94188",
+            "view_time": "2026-06-10T17:27:14",
+            "product_id": 9859,
+            "time_on_page": 134,
+            "scroll_depth_percent": 45,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_40079",
+            "view_time": "2026-06-10T11:40:51",
+            "product_id": 8619,
+            "time_on_page": 143,
+            "scroll_depth_percent": 66,
+            "clicked_recommendations": 0,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_19673",
+            "view_time": "2026-06-10T14:10:51",
+            "product_id": 2436,
+            "time_on_page": 74,
+            "scroll_depth_percent": 94,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_54187",
+            "view_time": "2026-06-10T19:19:30",
+            "product_id": 6128,
+            "time_on_page": 165,
+            "scroll_depth_percent": 23,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_20105",
+            "view_time": "2026-06-10T20:21:15",
+            "product_id": 1619,
+            "time_on_page": 180,
+            "scroll_depth_percent": 61,
+            "clicked_recommendations": 2,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_36868",
+            "view_time": "2026-06-10T06:31:18",
+            "product_id": 4473,
+            "time_on_page": 117,
+            "scroll_depth_percent": 36,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_70804",
+            "view_time": "2026-06-10T14:07:18",
+            "product_id": 7764,
+            "time_on_page": 146,
+            "scroll_depth_percent": 18,
+            "clicked_recommendations": 5,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_38063",
+            "view_time": "2026-06-10T16:11:32",
+            "product_id": 4777,
+            "time_on_page": 25,
+            "scroll_depth_percent": 64,
+            "clicked_recommendations": 3,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_15167",
+            "view_time": "2026-06-10T19:19:19",
+            "product_id": 4615,
+            "time_on_page": 150,
+            "scroll_depth_percent": 85,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_84158",
+            "view_time": "2026-06-10T02:38:27",
+            "product_id": 8549,
+            "time_on_page": 150,
+            "scroll_depth_percent": 12,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_11958",
+            "view_time": "2026-06-10T22:08:00",
+            "product_id": 8442,
+            "time_on_page": 96,
+            "scroll_depth_percent": 27,
+            "clicked_recommendations": 2,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_18325",
+            "view_time": "2026-06-10T10:12:24",
+            "product_id": 4731,
+            "time_on_page": 14,
+            "scroll_depth_percent": 65,
+            "clicked_recommendations": 1,
+            "added_to_wishlist": false,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_67184",
+            "view_time": "2026-06-10T07:20:01",
+            "product_id": 2828,
+            "time_on_page": 57,
+            "scroll_depth_percent": 46,
+            "clicked_recommendations": 0,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_40440",
+            "view_time": "2026-06-10T05:51:04",
+            "product_id": 2872,
+            "time_on_page": 171,
+            "scroll_depth_percent": 80,
+            "clicked_recommendations": 1,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_94069",
+            "view_time": "2026-06-10T02:36:07",
+            "product_id": 9879,
+            "time_on_page": 49,
+            "scroll_depth_percent": 88,
+            "clicked_recommendations": 5,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_75368",
+            "view_time": "2026-06-10T10:52:54",
+            "product_id": 3808,
+            "time_on_page": 79,
+            "scroll_depth_percent": 14,
+            "clicked_recommendations": 1,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_55349",
+            "view_time": "2026-06-10T01:02:08",
+            "product_id": 7491,
+            "time_on_page": 148,
+            "scroll_depth_percent": 92,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_91103",
+            "view_time": "2026-06-10T22:59:24",
+            "product_id": 6670,
+            "time_on_page": 31,
+            "scroll_depth_percent": 10,
+            "clicked_recommendations": 5,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_20059",
+            "view_time": "2026-06-10T08:22:32",
+            "product_id": 4154,
+            "time_on_page": 151,
+            "scroll_depth_percent": 29,
+            "clicked_recommendations": 0,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        },
+        {
+            "user_id": "user_87559",
+            "view_time": "2026-06-10T18:46:57",
+            "product_id": 6578,
+            "time_on_page": 166,
+            "scroll_depth_percent": 58,
+            "clicked_recommendations": 0,
+            "added_to_wishlist": false,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_12973",
+            "view_time": "2026-06-10T07:34:24",
+            "product_id": 1249,
+            "time_on_page": 63,
+            "scroll_depth_percent": 13,
+            "clicked_recommendations": 4,
+            "added_to_wishlist": true,
+            "added_to_cart": false
+        },
+        {
+            "user_id": "user_60148",
+            "view_time": "2026-06-10T02:57:18",
+            "product_id": 9962,
+            "time_on_page": 150,
+            "scroll_depth_percent": 56,
+            "clicked_recommendations": 0,
+            "added_to_wishlist": true,
+            "added_to_cart": true
+        }
+    ],
+    "checkout_users": [
+        {
+            "user_id": "user_93723",
+            "checkout_time": "2026-06-10T12:42:47",
+            "items_in_cart": 4,
+            "total_value": 29.85,
+            "payment_method": "cod",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_96637",
+            "checkout_time": "2026-06-10T08:14:52",
+            "items_in_cart": 2,
+            "total_value": 176.59,
+            "payment_method": "netbanking",
+            "coupon_used": false,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_46607",
+            "checkout_time": "2026-06-10T23:19:37",
+            "items_in_cart": 1,
+            "total_value": 228.52,
+            "payment_method": "netbanking",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_28624",
+            "checkout_time": "2026-06-10T00:37:58",
+            "items_in_cart": 2,
+            "total_value": 225.63,
+            "payment_method": "upi",
+            "coupon_used": false,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_36812",
+            "checkout_time": "2026-06-10T13:14:31",
+            "items_in_cart": 2,
+            "total_value": 497.86,
+            "payment_method": "netbanking",
+            "coupon_used": false,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_86273",
+            "checkout_time": "2026-06-10T17:41:19",
+            "items_in_cart": 1,
+            "total_value": 126.49,
+            "payment_method": "netbanking",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_44216",
+            "checkout_time": "2026-06-10T14:28:16",
+            "items_in_cart": 2,
+            "total_value": 287.16,
+            "payment_method": "upi",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_19821",
+            "checkout_time": "2026-06-10T11:12:51",
+            "items_in_cart": 4,
+            "total_value": 135.39,
+            "payment_method": "card",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_94188",
+            "checkout_time": "2026-06-10T17:39:14",
+            "items_in_cart": 4,
+            "total_value": 145.07,
+            "payment_method": "netbanking",
+            "coupon_used": false,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_54187",
+            "checkout_time": "2026-06-10T19:24:30",
+            "items_in_cart": 4,
+            "total_value": 149.48,
+            "payment_method": "cod",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_20105",
+            "checkout_time": "2026-06-10T20:28:15",
+            "items_in_cart": 1,
+            "total_value": 311.18,
+            "payment_method": "cod",
+            "coupon_used": false,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_84158",
+            "checkout_time": "2026-06-10T02:52:27",
+            "items_in_cart": 3,
+            "total_value": 176.15,
+            "payment_method": "cod",
+            "coupon_used": false,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_11958",
+            "checkout_time": "2026-06-10T22:13:00",
+            "items_in_cart": 1,
+            "total_value": 188.12,
+            "payment_method": "upi",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_18325",
+            "checkout_time": "2026-06-10T10:21:24",
+            "items_in_cart": 1,
+            "total_value": 331.06,
+            "payment_method": "netbanking",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_67184",
+            "checkout_time": "2026-06-10T07:26:01",
+            "items_in_cart": 3,
+            "total_value": 331.09,
+            "payment_method": "cod",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_20059",
+            "checkout_time": "2026-06-10T08:37:32",
+            "items_in_cart": 4,
+            "total_value": 190.94,
+            "payment_method": "cod",
+            "coupon_used": true,
+            "abandoned_cart": false
+        },
+        {
+            "user_id": "user_60148",
+            "checkout_time": "2026-06-10T03:10:18",
+            "items_in_cart": 4,
+            "total_value": 334.07,
+            "payment_method": "netbanking",
+            "coupon_used": false,
+            "abandoned_cart": false
+        }
+    ]
+}

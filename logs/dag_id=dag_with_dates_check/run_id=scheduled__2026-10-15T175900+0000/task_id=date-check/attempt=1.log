@@ -1,0 +1,10 @@
+{"timestamp":"2026-10-18T18:53:33.848743Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-10-18T18:53:33.850483Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/dag_check_dates.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-18T18:53:33.889119Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/dag_check_dates.py","lineno":4,"logger":"py.warnings"}
+{"timestamp":"2026-10-18T18:53:33.935605Z","level":"info","event":"Run ID: scheduled__2026-10-15T17:59:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":23}
+{"timestamp":"2026-10-18T18:53:33.937727Z","level":"info","event":"Run type: DagRunType.SCHEDULED","logger":"root","filename":"dag_check_dates.py","lineno":24}
+{"timestamp":"2026-10-18T18:53:33.939394Z","level":"info","event":"Logical date: 2026-10-15 17:59:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":25}
+{"timestamp":"2026-10-18T18:53:33.939739Z","level":"info","event":"Interval start: 2026-10-15 17:59:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":26}
+{"timestamp":"2026-10-18T18:53:33.939859Z","level":"info","event":"Interval end: 2026-10-16 17:59:00+00:00","logger":"root","filename":"dag_check_dates.py","lineno":27}
+{"timestamp":"2026-10-18T18:53:33.942588Z","level":"info","event":"Interval duration: <Interval [2026-10-15 17:59:00+00:00 -> 2026-10-16 17:59:00+00:00]>","logger":"root","filename":"dag_check_dates.py","lineno":29}
+{"timestamp":"2026-10-18T18:53:33.943111Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":215}
